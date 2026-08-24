@@ -9,8 +9,9 @@ Tools for people who run their business on HighLevel and other CRMs.
 
 ## Free and open source
 
-Everything here is MIT: use it commercially, in client work, in your own product, no attribution
-required.
+Everything here is MIT: use it commercially, in client work, in your own product, and charge for
+the result. All the licence asks is that the copyright notice stays with the code, and every file
+here already carries it. Nothing is required in your own product, and no permission is needed.
 
 - **[devtribe-skills](https://github.com/DevTribeLabs/devtribe-skills)** — agent skills and output styles for Claude Code and Codex.
 - **[contrast-checker](https://github.com/DevTribeLabs/contrast-checker)** — one-click WCAG contrast QA for any page. A bookmarklet that outlines every failing element and lists the exact ratios.
@@ -20,3 +21,8 @@ required.
 ## Find us
 
 [devtribe.ai](https://devtribe.ai) · [iblusend.com](https://iblusend.com) · [YouTube](https://www.youtube.com/@iBluSend) · [X](https://x.com/Iblusend) · [Discord](https://discord.com/invite/UfnmdJRzcP)
+
+---
+
+GoHighLevel and HighLevel are trademarks of HighLevel Inc. DevTribe Labs and iBluSend are not
+affiliated with, endorsed by, or sponsored by HighLevel Inc.
