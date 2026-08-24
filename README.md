@@ -14,6 +14,7 @@ the result. All the licence asks is that the copyright notice stays with the cod
 here already carries it. Nothing is required in your own product, and no permission is needed.
 
 - **[devtribe-skills](https://github.com/DevTribeLabs/devtribe-skills)** — agent skills and output styles for Claude Code and Codex.
+- **[ai-studio-export](https://github.com/DevTribeLabs/ai-studio-export)** — export a complete HighLevel AI Studio project as a ZIP, or push it into a GitHub repository you control. Neither access token is stored.
 - **[contrast-checker](https://github.com/DevTribeLabs/contrast-checker)** — one-click WCAG contrast QA for any page. A bookmarklet that outlines every failing element and lists the exact ratios.
 - **[ghl-theme-starter](https://github.com/DevTribeLabs/ghl-theme-starter)** — two themes and two icon packs for the GoHighLevel sidebar. One HTML file; the sixteen icons are inline SVG, so there is nothing to upload and nothing to host.
 - **[ghl-css-cookbook](https://github.com/DevTribeLabs/ghl-css-cookbook)** — twenty-two copy-paste CSS recipes for GoHighLevel, taken out of the agency theme we ran for a year and have since replaced.
