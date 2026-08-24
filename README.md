@@ -9,7 +9,13 @@ Tools for people who run their business on HighLevel and other CRMs.
 
 ## Free and open source
 
-- **[devtribe-skills](https://github.com/DevTribeLabs/devtribe-skills)** — agent skills and output styles for Claude Code and Codex. MIT.
+Everything here is MIT: use it commercially, in client work, in your own product, no attribution
+required.
+
+- **[devtribe-skills](https://github.com/DevTribeLabs/devtribe-skills)** — agent skills and output styles for Claude Code and Codex.
+- **[contrast-checker](https://github.com/DevTribeLabs/contrast-checker)** — one-click WCAG contrast QA for any page. A bookmarklet that outlines every failing element and lists the exact ratios.
+- **[ghl-theme-starter](https://github.com/DevTribeLabs/ghl-theme-starter)** — two themes and two icon packs for the GoHighLevel sidebar. One HTML file; the sixteen icons are inline SVG, so there is nothing to upload and nothing to host.
+- **[ghl-css-cookbook](https://github.com/DevTribeLabs/ghl-css-cookbook)** — twenty-two copy-paste CSS recipes for GoHighLevel, taken out of the agency theme we ran for a year and have since replaced.
 
 ## Find us
 
